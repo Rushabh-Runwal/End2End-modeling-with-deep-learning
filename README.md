@@ -16,10 +16,6 @@ Each model includes comprehensive metrics, visualizations, and integration with 
 ├── Classification_on_Fashion_MNIST.ipynb      # Classification model notebook
 ├── Regression_on_California_Housing_Dataset.ipynb  # Regression model notebook
 ├── Image_Classification_on_cifar10.ipynb     # Image classification model notebook
-├── artifacts/                                 # Generated metrics, plots, and reports
-│   ├── classification/
-│   ├── regression/
-│   └── image_classification/
 └── README.md                                  # Project documentation
 ```
 
