@@ -90,9 +90,5 @@ A detailed code walkthrough video explaining model architectures, metrics, and e
 - Scikit-learn
 - Matplotlib, Seaborn
 
----
-
-## 📬 Contact
-For any queries, reach out at [your-email@example.com](mailto:your-email@example.com).
 
 ---
