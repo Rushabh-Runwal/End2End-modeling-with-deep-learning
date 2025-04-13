@@ -79,7 +79,7 @@ Each notebook includes:
 ---
 
 ## 📝 Walkthrough Video 🎥
-A detailed code walkthrough video explaining model architectures, metrics, and error analysis is available [here](https://www.youtube.com/). 
+A detailed code walkthrough video explaining model architectures, metrics, and error analysis is available [here](https://youtu.be/QLe8wnZ1dNs). 
 ---
 
 ## 📦 Requirements
